@@ -14,3 +14,7 @@ table, tr, td, legend {
  table {
    box-shadow: 5px 5px 15px 5px #144e75;
  }
+
+ #addRow {
+   margin: 3rem 3rem 3rem 3rem;
+ }
