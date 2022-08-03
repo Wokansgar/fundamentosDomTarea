@@ -5,3 +5,12 @@ table, tr, td, legend {
     text-align: center;
     font-weight: bold;
  }
+
+ thead {
+    background-color: firebrick;
+    color: azure;
+ }
+
+ table {
+   box-shadow: 5px 5px 15px 5px #144e75;
+ }
