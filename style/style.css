@@ -1,7 +1,7 @@
-table, tr, td, legend {
+table, tr, td {
     border: 0.1rem solid black;
     border-collapse: collapse;
-    padding: 0.5rem;
+    padding: 0.8rem;
     text-align: center;
     font-weight: bold;
  }
@@ -16,5 +16,6 @@ table, tr, td, legend {
  }
 
  #addRow {
-   margin: 3rem 3rem 3rem 3rem;
+   margin: 1rem 3rem 3rem 3rem;
+   padding: 0.5rem;
  }
